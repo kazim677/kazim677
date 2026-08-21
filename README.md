@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>web-projects</b></td>
+    <td><b>Software-projects</b></td>
     <td>Interactive web projects built with HTML, CSS, and JavaScript</td>
   </tr>
   <tr>
