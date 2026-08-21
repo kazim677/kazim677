@@ -62,8 +62,13 @@
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>Software-projects</b></td>
-    <td>Interactive web projects built with HTML, CSS, and JavaScript</td>
+    <td><b>software-projects</b></td>
+    <td>Interactive tools and software built with HTML, CSS, and JavaScript</td>
+  </tr>
+  <tr>
+    <td>🎥</td>
+    <td><b>youtube-projects</b></td>
+    <td>Source code for simulations, tools, and projects featured on my YouTube channel</td>
   </tr>
   <tr>
     <td>📚</td>
